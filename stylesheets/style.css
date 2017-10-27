@@ -1,0 +1,64 @@
+body {
+  background-color: #FFFDD7;
+}
+
+table {
+  margin: 5px auto;
+}
+caption {
+  font-size: 44px;
+  font-weight: bold;
+  color: #018742;
+  text-transform: uppercase;
+  padding-bottom: 7px;
+}
+tr td {
+width: 120px;
+text-align: center;
+font-weight: bold
+}
+
+.group_of_elements {
+  letter-spacing: 24px;
+}
+
+ .rome_figures td {
+  text-align: center;
+}
+
+.letter {
+  font-size: 34px;
+  text-align: left;
+}
+
+ .pd-right10 {
+   padding-right: 6px;
+ }
+.figure-top {
+  border: 1px solid black;
+  text-align: center;
+  vertical-align: center;
+  width: 47px;
+  padding: 0px;
+  font-weight: normal;
+  background-color: white;
+}
+.legend{
+  text-align: left;
+}
+
+.pd-top-bt-10 {
+  padding: 10px 0 10px 0;
+}
+
+.backcolor-pink {
+  background-color: #F6979F;
+}
+
+.backcolor-yellow {
+  background-color: #FEF105;
+}
+
+.backcolor-blue {
+  background-color: #A9E0FE;
+}
